@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Discovers Sho</string>
+    <string name="intro_first_line">Stay home and Shop online</string>
+    <string name="intro_second_line">Stay home and Shop online </string>
+    <string name="btn_login">User Login here</string>
+    <string name="btn_user_signup">New User? Register here</string>
+</resources>
